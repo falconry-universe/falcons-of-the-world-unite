@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Falcons of the World Unite!</title>
+  <script src="https://cesium.com/downloads/cesiumjs/releases/1.82/Build/Cesium/Cesium.js"></script>
+  <style>
+    @import url(https://cesium.com/downloads/cesiumjs/releases/1.82/Build/Cesium/Widgets/widgets.css);
+    html, body, #cesiumContainer {
+      width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <div id="cesiumContainer"></div>
+  <script>
+    // Initialize the Cesium Viewer
+    Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI1NjE2Yjc3MC05NjljLTQ2ODctYWNiYi1lN2IwNTQ5NmE5MjMiLCJpZCI6MTY4NjU0LCJpYXQiOjE2OTU3MjQyMTd9.uFlRFWQGmTx-MgPEm207XIt_sdjcw1NpwN2Ze3y6_Nc';
+    var viewer = new Cesium.Viewer('cesiumContainer');
+    // viewer.imageryLayers.addImageryProvider(new Cesium.BingMapsImageryProvider({
+    //     url: 'https://dev.virtualearth.net',
+    //     key: 'AvdnCKHZTcRtKPBnq0iijDLys6eFuVIzO9gFFFxStnzRHKR-CUMvNgFX_tBq21JV'
+    // }));
+    // Your list of dictionaries representing lat/lon
+    var locations = [
+      {lat: 40.7128, lon: -74.0060},  // New York
+      {lat: 34.0522, lon: -118.2437}, // Los Angeles
+      {lat: 41.8781, lon: -87.6298},  // Chicago
+      // ... add more
+    ];
+    // Add billboards (markers)
+    locations.forEach(function(location) {
+
+      viewer.entities.add({
+        position: Cesium.Cartesian3.fromDegrees(location.lon, location.lat),
+        billboard: {
+          image: 'uaeff-logo.jpeg',
+          width: 32,
+          height: 32
+        }
+      });
+    });
+  </script>
+</body>
+</html>
