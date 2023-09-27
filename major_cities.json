@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Tokyo",
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  {
+    "name": "Delhi",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "name": "Shanghai",
+    "lat": 31.2304,
+    "lon": 121.4737
+  },
+  {
+    "name": "Sao Paulo",
+    "lat": -23.5505,
+    "lon": -46.6333
+  },
+  {
+    "name": "Mumbai",
+    "lat": 19.076,
+    "lon": 72.8777
+  },
+  {
+    "name": "Mexico City",
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  {
+    "name": "Beijing",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "name": "Cairo",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "name": "Dhaka",
+    "lat": 23.8103,
+    "lon": 90.4125
+  },
+  {
+    "name": "Osaka",
+    "lat": 34.6937,
+    "lon": 135.5023
+  },
+  {
+    "name": "New York City",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "name": "Karachi",
+    "lat": 24.8607,
+    "lon": 67.0011
+  },
+  {
+    "name": "Buenos Aires",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "name": "Chongqing",
+    "lat": 29.4316,
+    "lon": 106.9123
+  },
+  {
+    "name": "Istanbul",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "name": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639
+  },
+  {
+    "name": "Manila",
+    "lat": 13.4125,
+    "lon": 122.5644
+  },
+  {
+    "name": "Rio de Janeiro",
+    "lat": -22.9068,
+    "lon": -43.1729
+  },
+  {
+    "name": "Tianjin",
+    "lat": 39.3434,
+    "lon": 117.3616
+  },
+  {
+    "name": "Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  {
+    "name": "Lahore",
+    "lat": 31.5497,
+    "lon": 74.3436
+  },
+  {
+    "name": "Shenzhen",
+    "lat": 22.5431,
+    "lon": 114.0579
+  },
+  {
+    "name": "Seoul",
+    "lat": 37.5665,
+    "lon": 126.978
+  },
+  {
+    "name": "Suzhou",
+    "lat": 31.2989,
+    "lon": 120.5853
+  },
+  {
+    "name": "Guangzhou",
+    "lat": 23.1291,
+    "lon": 113.2644
+  },
+  {
+    "name": "Bangkok",
+    "lat": 13.7563,
+    "lon": 100.5018
+  },
+  {
+    "name": "Nanjing",
+    "lat": 32.0603,
+    "lon": 118.7969
+  },
+  {
+    "name": "Hangzhou",
+    "lat": 30.2741,
+    "lon": 120.1551
+  },
+  {
+    "name": "Hong Kong",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "name": "Ahmedabad",
+    "lat": 23.0225,
+    "lon": 72.5714
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "name": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  {
+    "name": "Pune",
+    "lat": 18.5204,
+    "lon": 73.8567
+  },
+  {
+    "name": "Miami",
+    "lat": 25.7617,
+    "lon": -80.1918
+  },
+  {
+    "name": "Hyderabad",
+    "lat": 17.385,
+    "lon": 78.4867
+  },
+  {
+    "name": "Dallas",
+    "lat": 32.7767,
+    "lon": -96.797
+  },
+  {
+    "name": "Santiago",
+    "lat": -33.4489,
+    "lon": -70.6693
+  },
+  {
+    "name": "Philadelphia",
+    "lat": 39.9526,
+    "lon": -75.1652
+  },
+  {
+    "name": "Belo Horizonte",
+    "lat": -19.9167,
+    "lon": -43.9345
+  },
+  {
+    "name": "Madrid",
+    "lat": 40.4168,
+    "lon": -3.7038
+  },
+  {
+    "name": "Houston",
+    "lat": 29.7604,
+    "lon": -95.3698
+  },
+  {
+    "name": "London",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "name": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "name": "Rome",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "name": "Moscow",
+    "lat": 55.7558,
+    "lon": 37.6176
+  },
+  {
+    "name": "Amsterdam",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "name": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738
+  },
+  {
+    "name": "Barcelona",
+    "lat": 41.3851,
+    "lon": 2.1734
+  },
+  {
+    "name": "Prague",
+    "lat": 50.0755,
+    "lon": 14.4378
+  },
+  {
+    "name": "Minneapolis",
+    "lat": 44.986656,
+    "lon": -93.258133
+  },
+  {
+    "name": "Seattle",
+    "lat": 47.608013,
+    "lon": -122.335167
+  },
+  {
+    "name": "Portland",
+    "lat": 45.523064,
+    "lon": -122.676483
+  },
+  {
+    "name": "San Francisco",
+    "lat": 37.773972,
+    "lon": -122.431297
+  },
+  {
+    "name": "Chicago",
+    "lat": 41.881832,
+    "lon": -87.623177
+  },
+  {
+    "name": "Salt Lake City",
+    "lat": 40.758701,
+    "lon": -111.876183
+  },
+  {
+    "name": "Phoenix",
+    "lat": 33.448376,
+    "lon": -112.074036
+  },
+  {
+    "name": "Los Angeles",
+    "lat": 34.052235,
+    "lon": -118.243683
+  },
+  {
+    "name": "Denver",
+    "lat": 39.742043,
+    "lon": -104.991531
+  },
+  {
+    "name": "St Louis",
+    "lat": 38.627003,
+    "lon": -90.199402
+  },
+  {
+    "name": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "name": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631
+  },
+  {
+    "name": "Brisbane",
+    "lat": -27.4698,
+    "lon": 153.0251
+  },
+  {
+    "name": "Auckland",
+    "lat": -36.8485,
+    "lon": 174.7633
+  },
+  {
+    "name": "Wellington",
+    "lat": -41.2865,
+    "lon": 174.7762
+  },
+  {
+    "name": "Lagos",
+    "lat": 6.5244,
+    "lon": 3.3792
+  },
+  {
+    "name": "Johannesburg",
+    "lat": -26.2041,
+    "lon": 28.0473
+  },
+  {
+    "name": "Nairobi",
+    "lat": -1.2921,
+    "lon": 36.8219
+  },
+  {
+    "name": "Cape Town",
+    "lat": -33.9249,
+    "lon": 18.4241
+  },
+  {
+    "name": "Addis Ababa",
+    "lat": 9.145,
+    "lon": 40.4897
+  },
+  {
+    "name": "Casablanca",
+    "lat": 33.5731,
+    "lon": -7.5898
+  },
+  {
+    "name": "Dakar",
+    "lat": 14.7167,
+    "lon": -17.4677
+  },
+  {
+    "name": "Accra",
+    "lat": 5.6037,
+    "lon": -0.187
+  },
+  {
+    "name": "Algiers",
+    "lat": 36.7538,
+    "lon": 3.0588
+  },
+  {
+    "name": "Dubai",
+    "lat": 25.276987,
+    "lon": 55.296249
+  },
+  {
+    "name": "Riyadh",
+    "lat": 24.7136,
+    "lon": 46.6753
+  },
+  {
+    "name": "Jerusalem",
+    "lat": 31.7683,
+    "lon": 35.2137
+  },
+  {
+    "name": "Tehran",
+    "lat": 35.6892,
+    "lon": 51.389
+  }
+]
